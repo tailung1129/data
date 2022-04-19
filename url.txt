@@ -1,0 +1,224 @@
+1. Mobile app
+    iOS apps:
+        https://itunes.apple.com/gb/app/londons-best-coffee/id400916958?mt=8
+        https://itunes.apple.com/us/app/drinkspiration-by-absolut/id320379903?mt=8
+        https://itunes.apple.com/us/app/vivino-wine-scanner/id414461255?mt=8
+    Android apps:
+         [buy and sell]
+        https://play.google.com/store/apps/details?id=com.thecarousell.Carousell&hl=en
+        [SayHi Chat]
+        https://play.google.com/store/apps/details?id=com.unearby.sayhi&hl=en
+        [Tricktionary]
+        https://play.google.com/store/apps/details?id=com.Tricktionary
+        [News]
+        https://play.google.com/store/apps/details?id=com.rhythmnewmedia.android.e
+        [Battery]
+            https://play.google.com/store/apps/details?id=imoblife.batterybooster
+        [Mobile Scanner]
+            https://play.google.com/store/apps/details?id=com.urbandroid.sleep
+        -Weather
+            https://play.google.com/store/apps/details?id=com.wetter.androidclient
+        -Fitness
+            https://play.google.com/store/apps/details?id=com.fitnesskeeper.runkeeper.pro
+            https://play.google.com/store/apps/details?id=com.myfitnesspal.android
+        Barcode
+            https://play.google.com/store/apps/details?id=com.biggu.shopsavvy
+        Photo sharing app
+            https://play.google.com/store/apps/details?id=hu.tonuzaba.android
+        Event app
+            https://play.google.com/store/apps/details?id=com.amitech.allevents
+        GPS tracking
+            https://play.google.com/store/apps/details?id=com.fsp.android.c
+        -food delivery
+            https://play.google.com/store/apps/details?id=com.global.foodpanda.android
+            https://play.google.com/store/apps/details?id=com.eddress.getgoodys
+        -fashion shopping app
+            https://play.google.com/store/apps/details?id=com.zalora.android
+        -radio station app
+            https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller
+            https://play.google.com/store/apps/details?id=com.maxxt.pcradio&hl=en
+            https://play.google.com/store/apps/details?id=air.com.readysquare.kropki
+        ------- Android Game --------
+
+            https://play.google.com/store/apps/details?id=com.forthblue.pool
+
+            https://play.google.com/store/apps/details?id=com.threed.bowling
+            https://play.google.com/store/apps/details?id=com.wangjin.jinxiangjin
+            https://play.google.com/store/apps/details?id=zok.android.shapes
+            https://play.google.com/store/apps/details?id=com.mobilityware.spider
+            https://play.google.com/store/apps/details?id=com.mobilityware.freecell
+        React native app:
+            Learn English:
+                App-store: https://apps.apple.com/us/app/cake-learn-english/id1350420987
+                Play-store: https://play.google.com/store/apps/details?id=me.mycake
+        Kotlin app:
+            language lessons
+                https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US
+                https://apps.apple.com/us/app/duolingo-language-lessons/id570060128
+            Food delivery:
+                https://play.google.com/store/apps/details?id=com.postmates.android&hl=en&gl=US
+                https://apps.apple.com/us/app/postmates-fast-delivery/id512393983
+
+2. Web site
+    React.js :
+        https://magicpin.in/
+        https://jhely.com/bo
+        https://www.kogan.com/au/
+        https://ezone.gg/ru/
+        https://wolt.com/
+        https://www.alecbabala.com/
+
+        -https://wolt.com/
+         This site is the best example that I've made. Food Deliver Site. (React/Laravel).
+            -https://wolt.com/en/discovery/restaurants
+            -https://wolt.com/en/discovery/stores. These are mine.
+        -https://jhely.com/bo(React)
+            This is another electronic-house site in React. This site makes people buy and rent by remotely,etc.
+            This site is base Front- React and Back - Node.
+        -https://www.kogan.com/au/ : (React/Node)
+            This is a Huge Sale Shop.
+
+    Vue:
+        https://www.buscargo.pt/  (Custom, Laravel, Vue js, Google maps, Google Tag)
+        https://navigatestlschools.org/ (school search)
+    Next:
+        https://www.ticketswap.com/partners
+    
+
+    Node backend:
+        http://demo.rippleosi.org/
+        https://www.lucidpress.com
+        http://schedugr.am
+        https://carelinx.com/
+        https://www.lucidpress.com
+        http://schedugr.am
+        http://www.ucraft.me
+        https://carelinx.com/ (express)
+        http://kristroom.ru/ (coffeescript)
+        http://pumpzfitness.com/
+
+    Angular : 
+        https://www.jetblue.com/
+        https://www.crunchbase.com/
+        http://www.technorides.com/
+        http://www.scriptd.com
+        http://www.saxoprint.fr
+        
+    Ruby on Rails :
+        http://www.houseit.com/
+        http://stablesecretary.com/
+        http://diglocal.com/
+        http://www.icookasia.com/
+        http://www.websocast.com/
+        https://www.homely.com.au/
+        https://www.prima.it/ - an Italian online insurance platform that we've built using React, Node, and AWS integrations
+        https://www.lagom.li/en
+
+    Laravel
+		https://www.vuhaus.com/
+		https://shop.mdhdigital.com/
+        https://www.backpackingtours.com/
+        https://www.publicate.ro/
+        https://www.iea.org/
+        https://rouillard.ca/
+        https://store.fvx.com.br/ 
+        https://www.herocycles.com/ (Angular.js/Laravel)
+        https://www.familytree365.com/   (Laravel/Vue(nuxt))
+    Ecommerce website:
+        http://www.quinnstheprinters.com/
+         ( e-book site. no-responsive)
+    Web portal : 
+            https://sso3.capella.edu/openam/UI/Login
+            https://www.camden.gov.uk/
+    Uber eats app:
+            uber.com
+            https://play.google.com/store/apps/details?id=com.ubercab.eats&hl=en&gl=US
+            https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277
+CMS websites:
+    WordPress sites:
+        WooCommerce : 
+            https://www.goveer.com/
+            https://www.stemsbrooklyn.com/
+            https://robertocoin.com/en-us/
+            https://www.kawaiibox.com/
+            https://www.woolcouturecompany.com/
+    Drupal:
+        https://www.honda.com.br/
+        https://www.oxfam.org/en
+        http://www.shrimp.eu/en
+        https://www.lamborghini.com/en-en
+        https://www.taboola.com/
+    Webflow:
+        https://the-goonies.webflow.io/
+        https://www.calloncourage.com/
+        https://www.bobbyrowe.com/
+        https://www.mackandpouya.com/
+    Gatsby : 
+        https://mostrecommendedbooks.com/
+        https://www.thirdandgrove.com/
+        https://madewithlove.com/
+        https://jacobdcastro.com/
+        https://www.oomphinc.com/
+        
+    ## Ecommerce system ##
+        https://www.zagg.com/en_eu/
+        https://shop.factory43.com/
+        https://www.pipsnacks.com/ (pipcorn)
+        https://www.kingscoastcoffee.com/
+        https://www.untuckit.com/
+3. Blockchain
+    - Dapp:
+        https://mvp.rand.network
+        https://www.foodandwine.com/lifestyle/nft-food-art
+		https://monkeyheistclub.com/
+		https://pixsol.io/
+		https://solmingos.com
+		https://pepepunks.net/
+        https://thesullens.com
+        https://bullsandbears.world/
+        https://octopusgamenft.io/
+        https://map.mypfp.land/
+        https://www.secret-nft.com/
+        https://www.unic.ly/
+        https://fractional.art/collections
+        https://badasskangaroos.com/
+        https://undeadpastelclub.io/
+        https://giraffesatthebar.com/
+        https://freebitco.in/signup/?op=s&r=847001
+    - DEX
+        https://pantherswap.com/
+    - NFT
+        https://mintgox.com/ 
+        https://martiangames.com/game.php?params=game/587/Tank-Off-2/ 
+        https://policeandthief.game/ https://rarity.game/ 
+        https://monkeyheistclub.com/
+        http://thefishtankgame.com/
+        https://map.mypfp.land
+        https://https://bargangnft.com
+        https://www.commitgood.com/
+        https://townstar.com/
+    - Solana
+        https://pixsol.io/
+        https://solmingos.com
+        https://pepepunks.net/
+        https://beanverse.io
+        https://thesullens.com
+        https://bullsandbears.world/
+        https://octopusgamenft.io/
+    -Faucet
+        https://freebitco.in/signup/?op=s&r=847001
+
+    -https://wolt.com/
+        This site is the best example that I've made. Food Deliver Site. (React/Laravel).
+        Please look https://wolt.com/en/discovery/restaurants
+            https://wolt.com/en/discovery/stores. These are mine.
+
+    -https://navigatestlschools.org/ (school search)
+        https://navigatestlschools.org/about-us This is my part.(Front - Vue, Backend - Node).
+
+    -https://www.buscargo.pt/  (Custom, Laravel, Vue js, Google maps, Google Tag)
+    -https://jhely.com/bo
+        This is another electronic-house site in React. This site makes people buy and rent,etc.
+        This site is base Front- React and Back - Node.
+    Figma:
+    https://www.figma.com/file/wrKEu1Hz8XcUcTxOA15es4/Upwork-Project-Description?node-id=2%3A3125

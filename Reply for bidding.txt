@@ -1,0 +1,277 @@
+
+Basic Online Store
+
+A NOT REAL online store is required, only for demo PRESENTATION:
+
+Front end with React.
+Backend with Node
+Database with MongoDB
+
+- Cover with latest products.
+- Simple product sheet.
+- User registration and login.
+- User panel with basic personal and shipping data.
+- Admin panel to add categories, tags and products.
+- Simulated purchase process, for example by paypal (it does not have to be real).
+
+
+
+
+
+
+Don't use CMS.
+Time 2 weeks, it is a simple code to be a not real presentation store.
+
+More information by private!
+
+Hi, I'm looking for someone who can do it in 2-3 weeks since I'm handing it in on the 27th, it's for a course I'm taking. Previously I did it myself but I used a CMS and they rejected me so now I have that time and I doubt I can do it at my own pace, so I need someone who has experience and can do it in that time. Being a basic demo store it does not require the density of a real store at all.
+If you are interested I can send you a pdf with more information.
+Greetings and thanks for contacting
+
+Gerasim Itich 9:55 PM
+Thanks for your reply Robin.
+I am very interested in your work. Once you give me the pdf and discuss more details about your project, I will finish your task just in time.
+Do not hesitate to contact me.
+
+RG
+Robin Greg 10:01 PM
+shop.pdf
+124.95KB
+Here is the pdf, if you have any questions or suggestions, please let me know. I have tried to simplify the project as much as possible but suggestions are welcome!
+
+Gerasim Itic 10:03 PM
+ok let me check
+
+
+I just read your pdf and have a few questions to clarify.
+Before discussing your demo project with you, please answer the following.
+1. Could we discuss more details about your project or something on S-k-y-p-e or what?
+2.Could you pay me through p-a-y-p-a-l or p-a-y-o-n-e-e-r?
+Let me know your opinion.
+I love MERN-stack as a web developer. Your project is realistic and simple. I can do this in 8 business days and it will take 2 days to test it. If you are interested in me, I will provide you with a milestone or timeline as soon as possible, okay?
+
+Gerasim Itich 10:33 PM
+Let me know your thought.
+
+Gerasim Itich 10:41 PM
+I am waiting now for you.
+
+RG
+Robin Greg 10:55 PM
+Hello, but do you speak Spanish?
+
+Gerasim Itic 10:59 PM
+I'm sorry I can not speak Spanish. But I'll do my best.
+
+Gerasim Itich 11:10 PM
+Without knowing Spanish, can't we go together? Please let me know.
+
+Gerasim Itic 11:58 PM
+My s-k-y-p-e id : live:.cid.3cec7fb2ea07bb83I'm always there.
+
+Fri, Apr 08
+RG
+Robin Greg 4:12 AM
+Sorry my English is very basic and we will not be able to converse by speaking. If you can by text is better.
+
+Gerasim Itich 6:25 AM
+Great! I totally agree with you.
+Can we text chat in s-k-y-pe or something?
+Please invite me. During that time, I will prepare the milestones according to the timeline. It is our first collaboration to be closer to each other. I wish my experience will accelerate your business quickly. okay?
+
+---------------------------------------------------------------
+Darius Naghavi Australia.
+
+Gerasim Ionic 1989.3.10 33 year old
+
++31 71 529 2970
+Catharinasteeg 5, 2311 DE Leiden, Netherlands
+
+
+ Let me introduce myself.
+      I'm a developer who is passionate about developing Full-stack projects and have a lot of experience in Web development. 
+      From 2017 I have worked in DJS software companies as a junior and senior full-stack developer.
+
+      About me. I have experiences in React and Node for 4+ years. I really love MERN-stack. Yeah. I am a full stack developer so 
+      I am capable of Backend(Nodejs, Laravel, php, so on)
+      I have made many projects for my clients.
+
+      I enjoy overcoming the challenges. 
+      Of course, until now, there were no special challenges for me.
+      So I don’t know exactly how difficult it is to overcome challenges.U-hum
+      But I just want to improve my skills and technical skills by overcoming challenges.
+      Of course, now trying to get the job from your company is also another challenge for me.
+      But I will do my best to work with you.
+      And also I enjoy working with teamwork. I mean, I value the team spirit as the most important thing.
+
+      Yeah, That's all.
+  
+company : https://donaldruis38.wixsite.com/djs-tech-group
+
+8.20
+---------------------------------------------------------
+Job posting
+
+Today we have a mobile app, as PayPal. so our differents users have feature like add money of my account, transfert money to my friend, apply to loan, ....
+So now we need to build a payment gateway to allow our users to pay on différents site online. Something like a PayPal.
+With payment gateway others company/ecommerce platform will be able to integrate NeeroPay on their platform.
+in term of process/flow we need exactly something like PayPal. So we need a backend dev to work on it.
+Our technical task : Java with Spring, PostgreSql
+BPM : Flowable with Spring (https://www.flowable.com/open-source/docs/form/ch04-Spring)
+
+
+
+----------------------------------------------------------
+Posting. 600. US
+
+
+
+Looking for someone who can compile a code that will fetch requested assets and render them in an environment. Output required is a video file of rendered 3d layers.
+
+
+Hi, I am an expert in Unreal Engine.
+I have built 3d Gaming for 4 for years.
+Can you share your project with me?
+
+View details
+TC
+The Gray Cat 6:14 AM
+Hi.
+Are you comfortable working with C++?
+
+Gerasim Itech 6:36 AM
+Thanks for your reply.
+Yes, I am free for it.
+
+TC
+The Gray Cat 6:37 AM
+TC
+The Gray Cat Today 6:20 AM
+I am trying to build an executable file on Windows. No UI/UX needed. I need to input a sentence that describes an environment with elements (e.g cat running in forest). The code needs to fetch the elements and environments from Unreal supported libraries (randomly); then render them with a starting point and output a 3d animated video file (of the cat running in the forest). ROUGHLY speaking
+
+Gerasim Itech 6:44 AM
+Okay, a very brilliant idea. I am very interested in your idea. Can you explain further?
+
+You removed this message
+
+TC
+The Gray Cat 6:49 AM
+So imagine having a text field. You write any action/ event and it outputs a 3d video animation of it using Unreal libraries.
+
+Basically its like a search engine for 3d elements
+
+Gerasim Itech 6:49 AM
+Sure
+
+TC
+The Gray Cat 6:50 AM
+But it can add them together, put a starting point, and put them in action
+
+You think its doable?
+
+Gerasim Itech 6:52 AM
+Wow. It is doable of course, I think. Do you have got any basic project or will you make it from scratch?
+
+TC
+The Gray Cat 6:53 AM
+From scratch
+
+Gerasim Itech 6:55 AM
+okay. So you dont have any data of your idea? Only idea you have? If not, please share with me to clarify. OK?
+
+TC
+The Gray Cat 6:57 AM
+Only idea
+
+I need someone to build the code
+
+Gerasim Itech 6:57 AM
+Yeah, I see your position.
+
+So when I have to deliver this for you?
+
+TC
+The Gray Cat 7:01 AM
+We need it in approx. 3 weeks
+
+How much do you think you need time?
+
+Gerasim Itech 7:02 AM
+From my experience, Due to your idea isnt complex, It is ok for me.
+
+TC
+The Gray Cat 7:03 AM
+Which libraries do you plan on fetching the elements from?
+
+Gerasim Itech 7:08 AM
+Let me think.
+
+give me some time,plz
+
+TC
+The Gray Cat 7:14 AM
+Of course
+
+Gerasim Itech 7:16 AM
+I am installing Unreal engine at my pc and finding the data that will need.
+
+and How about text on s-k-y-p-e?
+My id : Gerasim I. Please invite me.
+
+Let me know.
+
+TC
+The Gray Cat 7:25 AM
+I prefer to keep our communication within this platform
+
+Gerasim Itech 7:26 AM
+Most of my friends are in there. It is impossible, isnt it for you? or other platform?
+
+So after discussing your project more detail, can you communicate in there? Please let me know.
+
+And is it important which libraries I will use or what? The reason why you asked me that point is that it cost for free or not? you mean?
+
+TC
+The Gray Cat 7:36 AM
+Yes it doesnt matter which library. As long as I can find high quality element and render it and export into video
+
+Gerasim Itech 7:37 AM
+sure.
+
+how about?
+
+Gerasim Itech Today 7:31 AM
+So after discussing your project more detail, can you communicate in there? Please let me know.
+
+TC
+The Gray Cat 7:40 AM
+I dont have skype
+
+You have telegram?
+
+Gerasim Itech 7:40 AM
+Yes of course. I have it.
+Let me know your id.
+
+TC
+The Gray Cat 7:45 AM
+@ thegraycat0
+
+Looking for someone who can compile a code that will fetch requested assets and render them in an environment. Output required is a video file of rendered 3d layers.
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+Canada
+Toronto
+
+Working with our source code you will develop the UI using inspiration from FIGMA.
+
+Required Skills: Strong knowledge of Javascript, html css, bootstrap.  Strong emphasis on mobile responsive principles and best practices.  
+
+You are detail oriented and work well under pressure.  This is a highly urgent project and working a high level of communication.
+
+BONUS POINTS: if you have a passion for UI/UX
+
+See walkthrough here:https://drive.google.com/file/d/1t4X6DEFQzw1zvtsC8sI4kjdwYNuXApUc/view?usp=sharing
+

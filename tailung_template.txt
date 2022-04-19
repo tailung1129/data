@@ -1,0 +1,242 @@
+Hard work beats talent
+
+==================================
+1.Greeting
+    - Hi,there
+    - Hello, my name is Yoshio Hosaka and I'm capable your project to success.
+    - I would love an opportunity to speak with you regarding
+        - Thanks for giving a chance to bid you.
+        - Thanks for your opportunity.
+        - Thanks for your job posting.
+        - Thank you for this job opportunity
+    
+2.About me,mind  
+    - I have just read your job posting very carefully and was interested in your project(idea)
+    - Your job post immediately caught my attention
+    - It is a fantastic time to launch the NFT project
+    - I did my best to complete projects in time, and all my clients got satisfactory results from me
+    - I'd like to assist your NFT project with the finest staff possible
+    - I am familiar with your requirements on JD and hope to hear something more about your project to join in your journey
+    - I have read your proposal carefully and fully understand what you want
+    - I understand your needs and everything is included in my experience and am confident in successfully delivering in a week
+    - I am front-end developer with over 8+ years in development of fluidly smooth and user friendly applications using a combination of React.js and JavaScript frameworks
+    - Specialized React Developer is here for you
+    - I would like to offer our skills and experience to collaborate with you on this project. Let's discuss all details
+3.About client's project
+    - Your project is very realistic and my skill set meets your requirements perfectly. You will be able to check it.
+    - You're looking for an expert blockchain developer for your NFT project. Let me help you sidestep the unqualified people clogging your inbox
+
+4.My experience
+    - I have been a senior full-stack developer 7+ yrs, working on a vast challenging project with 5000 hours worked.
+    - I have rich experiences in [] for 4 years.
+    - I have created many react projects before.
+    - I have relevant experience and quality and timely manner makes me closer to you.
+    - I have strong experience and expertise at ---------------------------------
+    - Eight years of technical experience makes me a strong candidate for this critical position. Most recent project allowed my small team and I to develop
+    - Here are the skill sets I have
+            --- React.js, AngularJS, Angular 2 ~ 7, Vue.js, Ember, D3.js, jQuery, Bootstrap 4, Pure, Foundation, Typescript, Node.js
+            - Laravel, CodeIgniter, Symfony, CakePHP, PHP
+            - Wordpress, Shopify, Magento, PrestaShop, OpenCart, Zoomla, etc
+            - MYSQL, MongoDB, etc
+            - Wix, Squarespace
+            - AWS, Firebase, QuickBlox
+            - We can also provide stylish, clean, and modern designs
+    ( react - And have good knowledge of testing frameworks including Mocha and Jest )
+
+5.  - Have a look at my previous working,please.
+    - Here you can check.
+    - Please take a look at few
+    - Here are some of the successful projects I've worked on:
+    - I share my development career such as followings
+    - Sharing few of my work for your reference
+    - Please take a look at the recent React+Node.js projects I worked on
+    - You can confirm my skills and previous projects in my github repositories
+
+6   -urls
+7.Service
+    - Here is what I am able to assist with:
+        - Ready to start right away because I dont have any task now.
+        - you can book a meeting in your time zone with this link
+    - In addition, our company provides a full range of services in outsourcing web-development and dedicated teams.
+    - Time Zone difference is not a matter I will be available in your time zone and I can start immediately
+
+8.relationship
+    - I always believe to build long-term relations with my clients
+    - I wanna more about your project in detail.
+    - I would be happy to set up a convenient time to talk about the requirements
+    - I'll be glad to help you, let's discuss all the details during the interview
+    - It would be great to speak with you and learn more about how we can achieve your goal
+    - Awaiting your positive response 
+9.Bye
+    - Looking forword to your reply.
+    - Hope you are doing well.
+    - Warm regards.
+    - All the best.
+    - Love your saticified faces
+    - Cheers
+    - Have a great day
+    =Thanks
+
+
+===================================
+
+
+============Profile   1(react js)================
+Hard work beats talent!!!
+
+My name is Levi Dekker.
+I am an expert full-stack Developer(especially react,node). I love challenges and really like to never give up any difficulties coming from the client's project. Client's satisfaction is my one.
+
+My main tech of focus right now is React.js and node.js, as well as various front-end and backend. And I'm capable of following Tech,too.
+
+• ReactJS
+• NodeJS
+• Various front and back-end(React JS, Next.js, Vue JS, Nuxt.js, Angular, HTML, CSS, JavaScript, jQuery) (PHP, Node.js, Laravel, CodeIgniter)
+• Blockchain Node
+• Solidity Smart Contracts
+• Web3JS/Truffle/Infura/IPFS
+• MongoDB,MySQL
+• NFT Marketplace like OpenSea, Rarible. Mintable
+• Decentralized Exchange (like Uniswap)
+• Cryptocurrency Exchange (like Binance)
+
+Thanks for caring of my CV.
+
+============Profile   1================
+
+============Profile   2(blockchain)================
+
+Hard work beats talent!!!
+
+Welcome to my profile.
+My name is Gerasim Ignatiev and 33 year-old.
+I am an expert Blockchain developer of the software company. I have got a blockchain team in our company. I love challenges and really like to never give up any difficulties coming on the client's project. Client's satisfaction is my one.
+
+My main tech of focus right now is Blockchain Tech and I built and launched several smart contracts based on ERC20/721/1155 and BEP20 on EVM compatible networks with fully-testing on testnet before launch. Especially, I have rich experience in customizing and deploying the contracts for farming, staking pool for defi website. Recently, I have developed the smart contracts for game with ERC721 for inventory and ERC20 for reward token.
+I have been being as a senior blockchain developer for over 2+ yrs, working against vast challenging project.
+And I'm capable of following Tech,too.
+
+• Blockchain Node
+• Solidity Smart Contracts
+• Building several tokens: ERC20, ERC721, ERC1155
+• Web3JS/Truffle/Infura/IPFS
+• MongoDB,MySQL
+• NFT Marketplace like OpenSea, Rarible. Mintable
+• Decentralized Exchange 
+• Cryptocurrency Exchange
+• ReactJS
+• NodeJS
+• Various front and back-end(React JS, Next.js, Vue JS, Nuxt.js, Angular, HTML, CSS, JavaScript, jQuery) (PHP, Node.js, Laravel, CodeIgniter)
+
+Thanks for caring of my CV.
+
+
+============Profile   2================
+
+
+-----------Donald M-----------------
+
+Senior Blockchain Engineer  
+$38.00/hr 
+Senior of Full stack & Block Chain developer
+
+I am Full stack/Blockchain developer for 7+ years in software development company.
+Until 3 years ago, I was web developer. However I was interested in blockchain technology with advent of this technology.
+So I became a Full stack & Blockchain developer and until now, I've accumulated enough experiences.
+
+My skills :
+1. Web
+- Frontend : React, Vue, Angular, JQuery. ES5/ES6
+- Backend : PHP, CI, Laravel, WordPress, Node.js, Ruby on Rails, Django
+- Database : MySQL, MongoDB
+2. Mobile
+- Android, Objective C, Swift
+- React native, Flutter, Ionic
+2. Blockchain
+- Solidity, NFT Minting MarketPlace, DEX
+
+If we work together, I will provide them:
+✓ Professional and Polite
+✓ Amazing Communication
+✓ Quality Work within Budget
+✓ Free Fixes after the project delivery
+✓ Long term partnership and support
+✓ Clean, Documented Code
+✓ Regular Updates
+
+**************************************************************************************
+And the most important thing is your business is succeeded by our effort!
+**************************************************************************************
+I am quite willing to do anything for you.
+
+
+less
+
+
+
+---------------------------------------------------
+ 
+Please take a look at few.
+
+https://tastybones.xyz/
+This is the NFT marketplace websites that made by team.
+I played the role of making front-end section. In there, please look https://opensea.io/collection/tastybonesxyz?search[sortAscending]=true&search[sortBy]=PRICE.
+I have built this page in React.
+
+https://jhely.com/bo
+This is another electronic-house site in React. This site makes people buy and rent,etc.
+This site is base Front- React and Back - Node.
+
+https://wolt.com/
+This site is the best example that I've made. Food Deliver Site. This is also MERN-Stack.
+Please look https://wolt.com/en/discovery/restaurants
+            https://wolt.com/en/discovery/stores. These are mine.
+
+
+
+
+Hi
+I have just read description carefully and was interested in your job posting.
+
+My skill set meets your requirements.
+I really hope to have long term relationship for years and discuss your project asap in detail.
+Have a look at my working project records.
+As a full-stack developer, especially, I really love React with typescript and Nodejs.
+Take a look,please.
+
+-https://wolt.com/
+    This site is the best example that I've made. Food Deliver Site. (React/Laravel).
+    Please look https://wolt.com/en/discovery/restaurants
+            https://wolt.com/en/discovery/stores. These are mine.
+
+-https://navigatestlschools.org/ (school search)
+    https://navigatestlschools.org/about-us This is my part.(Front - Vue, Backend - Node).
+
+-https://jhely.com/bo
+    This is another electronic-house site in React. This site makes people buy and rent,etc.
+    This site is base Front- React and Back - Node.
+-https://www.buscargo.pt/  (Custom, Laravel, Vue js, Google maps, Google Tag)
+
+    
+Also, I can assist many Technical Offers.
+I sincerely hope to work with you and will complete your landingPage.
+
+Awaiting your positive response.
+Warm regards.
+Levi Dekker
+
+
+Hi
+I have just read description carefully and was interested in your job posting.
+
+I really hope to have long term relationship for years and discuss your project asap in detail.
+Have a look at my working project records.
+Take a look,please.
+
+
+
+Also, I can assist many Technical Offers.
+I sincerely hope to work with you.
+
+Awaiting your positive response.
+Warm regards.

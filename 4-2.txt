@@ -1,0 +1,352 @@
+
+Hi, I have just read description carefully and was interested in your job posting.
+
+I have rich experiences in React(Typescript, JavaScript) and Node for 6+ years and to be honest I really love MERN-stack.
+Please take a look.
+-https://wolt.com/
+This site is the best example that I've made. Food Deliver Site. (React/Node).
+-https://wolt.com/en/discovery/restaurants
+-https://wolt.com/en/discovery/stores. These are mine.
+-https://jhely.com/bo(React/Laravel)
+This is another electronic-house site in React. This site makes people buy and rent by remotely,etc.
+This site is base Front- React and Back - Node.
+-https://www.kogan.com/au/ : (React/Node)
+This is a Huge Sale Shop.
+I hope to have long term relationship for years and discuss your project asap in detail.
+I guarantee that I will strive for accelerating your business by my expertise and implement your idea to the success.
+I sincerely hope to work with you.
+
+Awaiting your positive response.
+Warm regards.
+
+View details
+Wolt – Wolt
+Wolt delivers from the best restaurants and stores around you.
+Wolt – Wolt
+Wolt makes it incredibly easy to discover and get what you want, delivered quickly and reliably. Find the best restaurants and stores in your area, and place an order for pickup or delivery with just a few clicks.
+Wolt – Wolt
+Wolt makes it incredibly easy to discover and get what you want, delivered quickly and reliably. Find the best restaurants and stores in your area, and place an order for pickup or delivery with just a few clicks.
+JHELY
+JHELY
+FK
+
+
+social platform for logistics
+The platform includes the following features.
+
+Community with like, comment and share.
+Build your own network (contacts)
+job, publish and apply
+Messages "chat"
+announcements
+
+user settings
+Profile, profile picture and wallpaper
+address and contact details
+Create a company page (with all company details, logo, pictures and offers of the company).
+
+Hashtag # @
+groups
+network
+follow and unfollow
+Statistics (views and visits)
+
+Platform is to be made in React.
+
+Please only serious inquiries
+
+
+
+
+Florian Keeven 10:57 AM
+good day, thank you for your inquiry.
+the platform should be similar to linkedin.
+if you're familiar with it, we'd love to talk about it
+
+Nazar M Koli 11:12 AM
+Thanks for your reply. How about your weekends?
+I am familiar with this and I love it. Can you discuss further?
+
+FK
+Florian Keeven 11:18 AM
+OK,
+you know the platform
+the design should look like this. since it's in angular, you have to copy it. there is also a react version, but it doesn't resemble angular and its functions. so the design has to be recreated.
+click on the link, go to the red gear on the right and choose layout "Dense"
+that's how it should look
+http://angular-material.fusetheme.com/pages/profile
+
+Fuse Angular - Angular Template and Starter Kit
+Admin Template and Starter Kit with Angular, Angular Material Components and TailwindCSS
+Nazar M Koli 11:32 AM
+Ok, very nice. I am very familiar with Fuse theme and have much knowledge in Fuse react. It is a large and popular theme and I am capable of your idea. So you mean you want to rebuild the website based on react that looks like "Dense" mode, right?
+
+FK
+Florian Keeven 11:34 AM
+yes, but as already mentioned, please don't use the react template, because it doesn't look like angular.
+it really needs to be rebuilt. the template must look like the angular demo.
+
+this is just the first phase.
+when this is finished, other work will be added.
+But I don't want to discuss that until the first phase is completed.
+when everything works according to my ideas and I am enthusiastic. we will start a long work together.
+which can last up to two years
+
+Please give me time, I have to do something quickly.
+will be back online in 1 hour maybe 2 hours.
+please consider whether everything is feasible on your part.
+
+Nazar M Koli 11:48 AM
+sure
+
+Nazar M Koli 3:15 PM
+Hi, come back again, Florian?
+
+let me leave my message.
+
+I see what you want. I have just seen the react-version(http://react-material.fusetheme.com/pages/profile), too. It seems to be very similar to angular version, but it is a bit different that you have mentioned.
+
+Fuse React - Material Design Admin Template
+Fuse React - Material design admin template with pre-built apps and pages
+FK
+Florian Keeven 3:18 PM
+Hello, I'm online.
+what can you suggest me
+how long does it take you to work?
+tell me your suggestions
+
+Nazar M Koli 3:19 PM
+Ok sure.
+
+FK
+Florian Keeven 3:20 PM
+exactly, that's why you have to contact the demo angular and rebuild it.
+
+Nazar M Koli Today 3:18 PM
+I see what you want. I have just seen the react-version(http://react-material.fusetheme.com/pages/profile), too. It seems to be very similar to angular version, but it is a bit different that you have mentioned.
+
+Nazar M Koli 3:20 PM
+During you are away, I have analyzed the angular theme to copy it to react-version sufficiently, so I think no problem to implement your idea. In both angular and react project, it contains 'node_modules', as you know. So what I have to do is that I will convert the angular component to the react component. In there, I will need to change the internal variables in angular to react-redux idea. Due to using Virtual DOM (in react-redux's advantage), in react the speed improved more than angular. I believe you understand me. This is my plan that you give me the project. No problem.
+
+So I wanna know which website I will copy it to react-version?
+
+http://angular-material.fusetheme.com/dashboards/project, right?
+
+Fuse Angular - Angular Template and Starter Kit
+Admin Template and Starter Kit with Angular, Angular Material Components and TailwindCSS
+or what?
+
+FK
+Florian Keeven 3:23 PM
+I don't understand this question now
+
+Nazar M Koli Today 3:21 PM
+So I wanna know which website I will copy it to react-version?
+
+Nazar M Koli 3:27 PM
+Sorry, Please explain further what you pointed.
+
+FK
+Florian Keeven 3:28 PM
+I hope I answered specifically.
+i need a new community
+admin and user that is newly created.
+community of logistics is the topic
+with the functions of linkedin. as in the description.
+
+the design (template) should look like this
+http://angular-material.fusetheme.com/pages/profile
+red gear and click on layout "Dense"
+menu on the right, mouseover effect, chat on the left, and main page.
+
+Fuse Angular - Angular Template and Starter Kit
+Admin Template and Starter Kit with Angular, Angular Material Components and TailwindCSS
+Nazar M Koli 3:30 PM
+Okay, I see. Do you have got rough design or sketch or figma and so on now for your project?
+
+there?
+
+FK
+Florian Keeven 3:35 PM
+yes, my answer takes a little while, because i have guests here. sorry
+
+Nazar M Koli 3:35 PM
+Np
+
+How many pages are there for your social platform?
+
+Nazar M Koli Today 3:30 PM
+Okay, I see. Do you have got rough design or sketch or figma and so on now for your project?
+
+FK
+Florian Keeven 3:41 PM
+social platform for logistics
+The platform includes the following features.
+
+Community with like, comment and share.
+Build your own network (contacts)
+job, publish and apply
+Messages "chat"
+announcements
+
+user settings
+Profile, profile picture and wallpaper
+address and contact details
+Create a company page (with all company details, logo, pictures and offers of the company).
+
+Hashtag # @
+groups
+network
+follow and unfollow
+Statistics (views and visits)
+
+Platform is to be made in React.
+
+Please only serious inquiries
+
+Nazar M Koli 3:41 PM
+what does mean? I saw it before.
+
+FK
+Florian Keeven 3:41 PM
+didn't you read the description?
+
+Nazar M Koli 3:42 PM
+Of course read.
+
+But for your project, I need any sketches or mockup. Got it? I hope you understand me
+
+And there are only functions for social project, not how many pages. I think we need to clear before starting sufficiently
+
+FK
+Florian Keeven 3:46 PM
+maybe we're talking about something else
+ok i will explain again briefly.
+
+the platform and its functions are like linkedin.
+but only for logistics and manufacturers.
+
+do you know the functions of linkedin?
+
+Nazar M Koli 3:51 PM
+Sure, I will make the project exactly looks like linkedin, but it is different in logistics and manufacturers right?
+
+FK
+##33
+Florian Keeven 3:55 PM
+functions are the same
+begin
+network
+jobs
+announcements
+Messages
+
+admin and user
+company page
+
+Nazar M Koli 4:01 PM
+I understood this. and any sketch or mockup? May I make the pages myself according to the functionality or looks like linkedkin?
+
+FK
+Florian Keeven 4:02 PM
+yes
+
+Nazar M Koli 4:02 PM
+what is yes? first or second?
+
+sorry I cant get you
+
+Please let's discuss detail.
+
+FK
+Florian Keeven 4:04 PM
+the second, function like linkedin but with the design "Dense"
+
+Nazar M Koli 4:05 PM
+Okay, so you mean you dont have any sketch or mockup. All right.
+
+FK
+Florian Keeven 4:06 PM
+you mean a document with functions?
+No I have not
+
+Nazar M Koli 4:07 PM
+No, no document.
+
+I mean design.
+
+FK
+Florian Keeven 4:08 PM
+sketch or mockup ?
+
+no
+
+Nazar M Koli 4:08 PM
+sure
+
+FK
+Florian Keeven 4:09 PM
+no, I don't have a design either.
+That's why I show you the link from the template
+
+Nazar M Koli 4:10 PM
+Oh, I see your quick hesitation. I got it.
+
+But I really need rough design at least. You can draw in your paper and take a photo and give me it.
+And I will provide you the project like your design. It is possible for you?
+
+FK
+Florian Keeven 4:16 PM
+hier did you see that?
+this is the design
+
+FK
+Florian Keeven Today 3:28 PM
+I hope I answered specifically.
+i need a new community
+admin and user that is newly created.
+community of logistics is the topic
+with the functions of linkedin. as in the description.
+
+the design (template) should look like this
+http://angular-material.fusetheme.com/pages/profile
+red gear and click on layout "Dense"
+menu on the right, mouseover effect, chat on the left, and main page.
+
+Nazar M Koli 4:21 PM
+Oh, really sorry. I have mistakes. very clear
+
+one more question remain. Which framework it will need for backend. I am capable of nodejs laravel,php and so on.
+I recommend you Node js. Because I really love MERN-stack as i mentioned before in proposal.
+
+FK
+Florian Keeven 4:27 PM
+yes node.js
+
+Nazar M Koli 4:27 PM
+Node js is very pupular because it is non-blocking and implement async as you know
+
+ok
+
+Nazar M Koli 4:32 PM
+I really hope to go together and it will be our first collaboration. I wish my expertise will accelerate your business. 🙂
+
+And then, to communicate with you, how aobut s-k-y-p-e or tel--e-g-r-a-m? My s-k-y id: live:.cid.c9a2cd0426635a28
+
+Please invite me.
+
+How about it? let me know
+
+FK
+Florian Keeven 4:37 PM
+Florian Keeven removed this message
+
+Nazar M Koli 4:38 PM
+Sure let me know your id
+
+FK
+Florian Keeven 4:38 PM
+Florian Keeven removed this message
+
+
+http://angular-material.fusetheme.com/sign-in?redirectURL=%2Fpages%2Fprofile

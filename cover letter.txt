@@ -1,0 +1,1180 @@
+*********************************
+Ali H. 
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+When I read your job description of the NFT project it really jumped out at me because this is something that we are doing consistently. I’m a professional NFT Unity Game Developer and We are a certified & top-rated agency with 50+ members, having experts of blockchain, and 3D animations. we have a physical company here in Faisalabad, we have previously developed several Unity Games & received cheerful feedback! We have a crowd of clients on Whatsapp, Telegram, Discord, Linkedin, etc. Have a look at some of our previously developed NFT Unity
+
+etna.game https://mintgox.com/ https://martiangames.com/game.php?params=game/587/Tank-Off-2/ https://policeandthief.game/ https://rarity.game/ http://thefishtankgame.com/
+We also provide services in building Dapps and Daos
+You could interview us anytime via chat or ZOOM meetings! Looking forward for a positive response from your side, thank you! I have read your job details too completely.
+
+Regards,
+Ali Hassan
+*********************************
+Artigence
+Empower your visions
+
+Overview
+Artigence is composed of developers with diverse range of specified fields (Digital Marketing experts, designers, web/app developers etc..).  Our goal is to bring new ideas & innovation to industry. We are looking forward to build that relationship with you where you can feel at home expressing your vision, while our talented developers put those dreams into reality. 
+
+Our team of professionals guarantee the attainment of our projects, which range from websites to desktop applications, network environments to system software’s. You dream, we fulfill.
+
+We are looking forward to set foots in the industry and stand beside some of the industries’ finest. We cannot describe how excited we are to be able to become a part of the ever-growing computer world that has allowed millions to realize their visions. We are looking forward to win your trust and honor our commitments. We are looking forward to empower your visions.
+Our Services - 
+
+===== Website Design & Website Development ===== 
+
+• Open Source Technologies: PHP, Python, Django, Mean stack 
+
+• Javascript: Node.js, Angular.js, Angular2x, 4x, 5x, 6, React.js, Vue.js,
+
+===== Wordpress Website Development =====
+
+WordPress Theme & WordPress Plugin customization and Development
+
+WordPress based Landing Page development
+
+WordPress customization
+
+Startup Website Development 
+
+
+====== Mobile App Design & Mobile App Development ======
+
+
+###  Native & Cross platforms Mobile App Development  ###
+
+• Native iPhone App Development using Objective C / Swift    
+  
+• Native Android app Development using JAVA   
+
+• Cross platform development using Xamarin Forms    
+
+• Flutter Based Mobile App Development 
+
+===== Testing & QA =====
+
+• Manual & Automation Testing for Website, API & Mobile Apps
+
+
+===== Shopify Store Development =====
+
+• Shopify theme customization 
+
+• Shopify Store Development  
+
+• Shopify based store Marketing 
+
+==== Graphics & Design ====
+• UI/UX Design   
+• Corporate Design: Logo Design, Branding.  
+• Vector Illustrations    
+• Art Direction  
+• Info graphics 
+• Customized T-shirt Design
+• Motion Graphics Design
+
+Love to see your Smiling and Satisfied Faces..
+
+Services
+https://www.upwork.com/ag/artigence/portfolio/project/1301572613784223744
+https://www.upwork.com/ag/artigence/portfolio/project/1301557719002390528
+https://www.upwork.com/ag/artigence/portfolio/project/1301588852785041408
+
+***************************************************
+Chester B.
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Hello
+What can I help you?
+As a blockchain expert, I had been working on implementing NFT mint website and Dex platforms with web3.js and solidity on Ethereum/BSC/Polygon/Solana for more than 2 + years. I have implemented Back-End of Multichain Bridge a few months ago and integrated it with Front-End (React+Typescript).
+
+I see you are in need of a full-stack developer who can help you create for your business. I have strong experience in developing smart contract, solidity, web3, Front-End(React, Vue), and Back-end(python node). I am pretty sure that my so-far works would perfectly satisfy your requirements.
+
+Project url:
+Dex: https://pantherswap.com/
+NFT: https://monkeyheistclub.com/
+
+My Stack:
+- Solidity in Ethereum
+- Building several tokens: ERC20, ERC721, ERC1155
+- Integrate web3.js with frontend Languages:
+- Frontend: react.js, vue.js, Javascript, CSS
+- Backend: node.js, python, go
+
+I would appreciate the opportunity to further discuss your requirements in detail in an interview.
+
+Best regards.
+
+Blockchain Expert
+$40.00/hr
+Thanks for your review.
+I'm a Certified Blockchain Architect, Certified Blockchain Developer and Full-Stack Blockchain Developer having an open mind towards new technologies, and having an understanding of how a web application gets done from a concept to design to the finished product with security implementations.
+Looking mainly for onsite and remote development work, full time, contracts from 6 month up to 5 years in duration.
+Senior solidity developer with web3.js, node.js, and react.js experience.
+I'm mostly working on developing smart contracts and integrating them into the frontend/backend in recent 4 years.
+I enjoy software development for over 10 years.
+EXPERIENCE
+1. 2 years of experience in Blockchain and Application
+• Develop the smart contracts with Solidity, integrate them to frontend/backend
+• Cryptocurrency Exchange System, Defi
+• Blockchain coin forking
+• Wallet for web and mobile
+2. 6 years of experience in full-stack
+• FIX (Financial Information eXchange)
+• Web Scraping
+• Android application and firmware with Android SDK/NDK/PDK
+SKILLED DEVELOPMENT LANGUAGE
+✓ Languages: Python, JavaScript, Typescript, SQL
+✓ Backend: Node.js Django, Flask, Spring Boot
+✓ Frontend: React.js, Vue.js,
+✓ Web: CSS 3 (including SASS and Stylus), HTML5
+✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis
+✓ Tests: Mocha, Chai
+✓ Version control: GIT, SVN; Github, BitBucket
+
+***************************************************
+Saito K.
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Hi, nice to meet you here.
+
+As a smart contract/web3 engineer, I have 4 yrs of experience in developing defi /NFT marketplace websites. I have built and launched several smart contracts based on ERC20/721/1155 and BEP20 on EVM compatible networks with fully-testing on testnet before launch. Especially, I have rich experience in customizing and deploying the contracts for farming, staking pool for defi website. Recently, I have developed the smart contracts for game with ERC721 for inventory and ERC20 for reward token.
+I am familiar with web3 integration for nft minting websites. I have rich experience in smart contract and building NFT websites based on the design with pixel-perfect. Furthermore, I have been working as a front-end engineer for 5yrs.
+
+Skillset:
+- Front-end: React.js/Redux/Typescript/Vue
+- Backend: Node.js/PHP/Python
+- PWA (Progressive Web App)
+- Blockchain Engineering: Ethereum, Solidity, Rust, Web3.js, Ether.js
+- Blockchain tools: Truffle suits, Hardhat, Ganache, Geth, Swarm, Metamask
+- Version control: Git (github, gitlab, bitbucket)
+- Cloud hosting: AWS, Firebase, Heroku, Google Cloud
+
+I am familiar with agile methodology and flexible to work in different time windows. I look forward to hearing from you sth about the project detail.
+Have a great day. Thanks,
+Saito
+
+Overview
+FullStack Blockchain Engineer | smart contract, web3
+$60.00/hr
+Welcome to my profile.
+As a full-stack smart contract & web3 engineer, I have 4yrs of experience in developing several Defi and NFT marketplace websites based on the several protocols. I have developed and launched several tokens and NFT smart contracts for p2e games and staking pool on EVM compatible networks with Solidity by handling transaction error reconciliation.
+Recently, I have developed NFT marketplace website for luxury watch with high price on Polygon network based marketplace which has the smiliar features and other enhanced ones for authentication of user and wine. I am familiar with front-end web development and integration with web3, ether.js, React.JS, and mobile dApp development for Android and iOS with ReactNative, Flutter.
+
+- Front End: React.JS, Redux, Vue.JS, Typescript
+- Back End: Node.JS, Python, Django
+- Writing, auditing, listing Smart contract with several standards
+- Web3 frontend integration
+- Defi websites with functionalities of bridge, prediction, lottery, farming, presale
+- NFT marketplace development
+- Blockchain Engineering: Ethereum, Solidity, Rust, Web3.js, Ether.js
+- Blockchain tools: Truffle suits, Openzeppelin, Ganache, Hardhat, Geth, Swarm, Metamask
+- Version control: Git (github, gitlab, bitbucket), Jira, Trello
+- Cloud platform: AWS, GCP
+- Smart contract audit: slither, techrate
+
+I take my ownership to all details of my work and am flexible to work with any time difference. I love working for new challenge, creative solution, and long-term partnership.
+Thanks for your time.
+***************************************
+Junaid Ali P. 
+Proposal Details
+$50.00/hr
+Proposed Bid
+Cover letter
+👇 Please review to see why this is the ONLY proposal you need! 👇
+
+Hello Donald M, my name is Junaid Ali Perwez,
+I have expert-level experience in Blockchain Development and would like to discuss this project with you.
+I have read your job post and I see you are looking for NFT engineer and Blockchain Developer. I have great experience and expertise with this kind of project.
+
+
+📌 Reasons you should hire me:
+✔️ Responsible.
+✔️ Can strongly commit to deadlines.
+✔️ Professional and creative.
+
+🏆🏆
+✅ Many 5-star client reviews
+
+Let's discuss further your project, please click on Send Message below to start a chatroom with me.
+Looking forward to hearing from you.
+
+Thank you for choosing me,
+Junaid Ali Perwez
+YittBox.com
+
+You can review additional information here:
+https://www.yittbox.com/our-services
+
+Overview
+Web Developer I Blockchain Developer I NFT Art Work I Smart Contract
+$50.00/hr
+I'm a Full-Stack Developer and a Blockchain Developer with experience of working in positions/roles of a senior developer, team lead, and system architect. Predominantly in my projects, I was using MS SQL Server, C# .NET, ASP.NET Web API, and AngularJS because with this stack it's relatively easy to get the good speed of development and high-quality result at the end. I also have work experience with Oracle, MySQL, MongoDB, Classic ASP, ASP.NET, ASP.NET MVC, jQuery, Knockout.js, and many more. I like creating fancy user interfaces as well as optimizing server code increasing services productivity. I'm familiar with design patterns and feel free to use them.
+
+🌟 SKILLS 🌟
+
+📍 Blockchain
+Binance Coin, Bitcoin, Blockchain, Cryptocurrency, Database, Exchange, Ethereum
+
+📍 Programming languages knowledge:
+C# – more than 8 years of development experience, good knowledge of the language and .NET;
+JavaScript – more than 5 years of development experience;
+C - generally, experience writing scripts for Mercury Load Runner for testing systems;
+C++, Java, Perl, PHP – general knowledge, experience in developing various small projects;
+SQL, PL/SQL, T-SQL – deep knowledge, extensive usage experience of more than 8 years.
+
+📍 Technologies:
+.NET – WinForms, ADO.NET, WPF, WCF, WF, ASP.NET, ASP.NET MVC, Web API, Entity Framework, NHibernate, Enterprise Library, Prism, DevExpress.
+JavaScript – AngularJS, jQuery, Knockout.js.
+TypeScript – Angular 2+ (from Angular 2 to Angular 7).
+
+📍 Experience with diverse protocols:
+TCP (through sockets), HTTP, HTTPS (SSL и TLS), SMTP, FTP, SOAP, UDP, Telnet, DNS, DHCP, RDP, SNMP и SMPP.
+
+📍 DBMS knowledge and experience:
+Oracle, MS SQL Server, MySQL, MongoDB, Azure Storage, MS Access.
+
+📍 Misc:
+Experience in developing using the TDD technique, deep knowledge, and understanding of design patterns.
+Knowledge of UML and experience composing various UML diagrams.
+Experience in the development of multithreaded applications.
+Skills in profiling applications productivity.
+
+I can complete tasks on a tight deadline with proper testing and well-written code with comments for better readability. I can deliver the quality work you are looking for. Let’s discuss the project?
+***********************************
+Tony Y.
+Proposal Details
+$35.00/hr
+Proposed Bid
+Cover letter
+I am a full stack developer.
+I have good experience in ethereum/solana and web development.
+I have expert skills in NFT minting/staking/airdrop platform.
+I have deployed several minting platforms using ERC721/metaplex.
+
+
+My previous work
+▪ https://pixsol.io/
+▪ https://solmingos.com
+▪ https://pepepunks.net/
+▪ https://beanverse.io
+▪ https://thesullens.com
+▪ https://bullsandbears.world/
+▪ https://octopusgamenft.io/
+
+- Solana/Metaplex
+* Generating artworks and metadata
+* Deploying artworks and metadata onto Arweave through metaplex upload
+* Deploying candy machine through metaplex
+* Developing landing page
+* Developing minting page and integrating with metaplex
+* Configuring start date and timer
+
+- Ethereum
+* Generating artworks and metadata
+* Deploying artworks and metadata onto ipfs/pinana
+* Creating smart contract and deploying onto Ethereum
+* Developing landing page
+* Developing minting page and integrating with the contract
+* Configuring start date and timer
+* Configuring presale date, whitelist and reveal
+* Opensea configuration: registration, integrating placeholder
+
+I also have industry experience in building web applications with
+AWS, Python, Node, React, and Vue.
+
+I am open to any discussion and development.
+And I am open to both one-time payment and partnership.
+
+Overview
+Blockchain Developer: Solidity, Rust, NFT, DEX
+$35.00/hr
+I am a web/blockchain developer with experience building smart contracts, DEX platforms, NFT minting/staking platforms and dApps.
+I have industry experience in building web applications with AWS, Python, Node, React and Vue as well.
+
+- Experience:
+* Building trading platforms, smart contracts, coin forking, NFT minting/staking platform
+* Cryptocurrency Exchange/Trading System, DeFi, Gambling
+* Frontend development using React/Vue
+* Backend development using Python/Node/AWS
+
+- Cryptocurrency
+* Solidity, Rust, C/C++
+* Uniswap, PancakeSwap
+* ERC-20/ERC-721/ERC-1155, BEP-20/BEP-721/BEP-1155, TRC-20/TRC-721/TRC-1155
+* Truffle, Hardhat, Metamask, Binance Wallet
+* Solana, Metaplex, Candy Machine, Phantom
+* web3.js/ethereum.js
+
+- Frontend:
+* ES5/ES6, TypeScript, SCSS, CSS3, TailwindCSS
+* React/Redux/React Hooks/Material-UI/Next.js/Gatsby/React Bootstrap/Storybook
+* Vue2/Vue3/Vuex/Vue-Router/Vuetify/Nuxt.js
+* Jest/React Testing Library/Cypress/Mocha
+* REST/GraphQL/Axios
+* OAuth2/JWT/Auth0/AWS Cognito
+* GeoJSON//Mapbox/Leaflet
+* Figma/Adobe XD/Invision/Zeplin
+
+- Backend:
+* Serverless/Django/Node.js/Laravel/SpringBoot
+* AWS/AWS Amplify/AWS SAM/AWS Lambda
+* MySQL/PostgreSQL/AWS RDS & Data API/AWS DynamoDB
+* Stripe/SendGrid Integrations
+* Platforms: AWS/Azure/GCP
+
+I am open to any discussion and development.
+And I am open to both one-time payment and partnership.
+***************************************
+Kerry H.
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Hello, dear.
+Thank you for the job posting.
+I read your job postings and I think you are doing well.
+I am very interested in your project.
+I have a lot of experience in blockchain development in building Defi, Dapp, and NFT minting websites.
+I also generated 10k art NFTs and deployed smart contracts on Ethereum, Binance, Polygon, and more.
+And have experience in using multi-call, Merkle trees to reduce gas fees when users mint NFTs and set the whitelist in the smart contract.
+In https://map.mypfp.land, users can only mint and buy Land-NFTs corresponding to the NFTs they own.
+And they can show the NFT they own on their Land-NFTs.
+In this project, I developed the website with solidity, React, web3, and canvas.
+In https://https://bargangnft.com, I have developed NFT minting website with React, web3.js and the smart contract of the bargangNFT was developed by the solidity.
+In https://mvp.rand.network, I have developed dapp website with the integration of different cryptocurrencies.
+I have 3 years of blockchain development experience and I’m highly skilled in solidity, web3, ethers, etc. I’m organized, deadline-driven, and I’ve built websites for clients all over the country in a number of industries including finance, blockchain/cryptocurrency, fitness, and fashion.
+And I need a detailed description of the project.
+How soon are you available for a call? It would be great to speak with you.
+
+Overview
+Web Development | Frontend, Backend, Blockchain
+$40.00/hr
+My name is Kerry Hideo and I am a Full-Stack engineer specializing in Blockchain, NFT, Web3, Smart Contract, Video Streaming, and AWS serverless.
+My experience spans over 8+ years and I have worked on designing, developing, deploying, and maintaining websites and web applications.
+Over the past years, I have done many projects with Defi, NFT market platforms, token swap dapp, smart contract base on ERC20/721/1155, BEP20/721 standard.
+Defi technology is the best of my top skill. With 4 years of experience in Blockchain, having a deep knowledge of blockchain technologies, specifically in constructing the decentralized application, fork & customizing the existing secure smart contracts, implementing trending methods like yield farming, new proof methods, etc.
+**************************
+Laiba S.
+Proposal Details
+$25.00/hr
+Proposed Bid
+Cover letter
+Hello ,
+
+While viewing your job details, it sparked a couple of questions in my mind.
+1. Is it an NFT project?
+2. Is your content ready?
+We can discuss everything on call in details
+
+Lemme introduce our company
+
+Corecis Tech is an innovative Full Stack Blockchain & Web Development company. Our team has a strong hold on different skills such as HTML, CSS, Sass, JavaScript, Solidity, Web 3.0, Ethereum, React JS and TypeScript and graphics designing as well. We've done multiple projects on web design & development to full Dapps. We are a complete team related to Bockchain business and its application along with market trends we're also engaged with different freelancing platforms, from where we've created a trusted bond with our clients by offering them tremendous services.
+It would be better if we discuss the project on a call. A quick call would help!
+P.s: You can see our portfolio in our agency.
+https://www.upwork.com/ag/corecis/
+
+We will be happy to work with you
+
+Regards,
+Team Corecis Tech.
+
+Overview
+Marketing
+$25.00/hr
+We, Corecis focused on customer satisfaction, Excellence, Highest Standard, best practice and committed to create an added value to your business as well as your innovating Idea’s by using our 10 years’ experience in market and 5 years’ experience in business.
+Specialties:
+• Web development
+• Token creation
+• DeFi
+• NFT Dapp
+• NFT MarketPlace
+• DAO (decentralized autonomous organization)
+• Graphic design
+• Swap system
+• React App
+• Mobile Application
+• Web 3.0 Integration
+************************
+Shubham P.
+Proposal Details
+$35.00/hr
+Proposed Bid
+Cover letter
+Hi there, Hope you are doing well!
+
+After going through your Job description carefully and similar to your requirement I have experience in working on various NFT and blockchains projects.
+
+I am a senior blockchain developer with over 5 years of work experience in Blockchain and Crypto Development. I can surely help you in building your innovative project, please share the complete project details.
+
+I have been into all kinds of Crypto Development that include building Smart contracts, Wallet creation, Token creation, Integrating the wallet, whitepaper creation, and building Crypto exchange/trading platform for BTC and other cryptocurrencies such as Dash, Ethereum, and bitcoin, etc.
+
+Please have a look at my work previous work -
+
+https://www.commitgood.com/
+(NFT project based on Solana)
+
+https://rovi.network/
+(ROVI is building a decentralized commerce protocol to create and share immense economic value among billions of users, millions of SMBs, and developers while democratizing Crypto usage among masses.)
+
+This is just the basic idea of mine based on the Job description you have given. Can you please let me know the full scope of the project? So, I can give you the best idea and proper estimation about the project.
+
+I always commit myself to deliver work with the highest quality so my clients will always be satisfied with the results. If you have any queries please feel free to ask. I will be glad to answer them.
+
+Always happy to hear from you.
+
+Thanks and regards,
+Shubham
+
+Overview
+Senior Fullstack | Blockchain | React Developer
+$35.00/hr
+Hello everyone,
+
+I am Shubham and I am working as a Full Stack Web Developer with a solid background in different programming areas. I have been strongly focused on future technology like Blockchain for the development of highly secure smart contracts, websites, and control panels for smart contracts or ICO.
+
+Currently interested in challenging and ambitious projects related to Blockchain / Distributed Ledger Technologies
+
+Skills & Technicals Expertise:
+
+- React.JS / Redux / Mobx
+- Angular / Backbone.JS / Javascript / jQuery
+- Html5 / CSS3 / Bootstrap / Foundation
+- Ionic / React Native mobile apps
+- Node.js / Express.js / Vue.js
+- PHP / Laravel / CodeIgniter
+- MySQL / SQLite / MongoDB / PostgreSQL
+- Blockchain / Ethereum / Smart Contracts / Solidity / Truffle / Web3.js / ERC20 Tokens / / ERC721 Tokens / ERC23 Tokens / DApp
+- ElasticSearch / Solr
+- Deployment on Heroku / VPS / Amazon Web Services (AWS) / DigitalOcean
+- Fluent English with strong communication skills.
+- Very rigorous, detail-oriented, and committed to the timely delivery of robust solutions.
+
+I love participating in creating amazing startups using agile methodologies and cutting-edge technologies, such as Blockchain + Smart Contracts, Cryptocurrencies & FinTech, ICO/ITO, Cloud and Serverless computing, AI, Image and Voice Recognition, Machine Learning, Big Data, Infrastructure as Code, web and mobile tech and so on.
+
+I have high skills in different technologies, I am a quick learner, logical & hard worker. Creativity, Top quality, Delivery on time, communication skills, never give up attitude and long-lasting relationships are guaranteed.
+
+In the end, you're not just getting an efficient developer, but also someone that will help you with the project in general (excluding graphic design; I just know I'm not good in that area).
+
+Thanks for visiting my Profile.
+
+Best regards,
+Shubham
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501433083287052289?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646823541097%22,%22channelName%22%3A%22dbf3dc39-29d2-49e5-855c-ef697418a529%22%7D%5D
+***********************************************
+Paul S.
+Proposal Details
+$25.00/hr
+Proposed Bid
+Cover letter
+Hello, how are you?
+I am working as a senior blockchain developer for over 5 years and I want to work on your projects for you.
+I have solid skills and experiences in NFT, Ethereum, Solana...
+Also I have rich experiences in building smart contracts and marketplaces.
+I am an individual full-time developer so I can start at anytime you want.
+I want to discuss with you in detail about your project.
+
+Overview
+Senior Blockchain Developer
+$50.00/hr
+Hello!
+I am working as a blockchain developer for 5+ years.
+
+My main skills:
+- Web3: Web3.js, Ethers.js, Web3.py
+- Blockchain: Bitcoin, Ethereum, Geth, MEV-Geth, FlashBots, Arbitrage/Liquidation Bots, Parity, Ethereum 2.0, Polkadot, Truffle, Waffle, Solidity, ERC(BEP)20/721/1155, Stable Coin, Binance, UniSwap(SushiSwap), Staking Pool, Mining Pool, Dapp
+
+Contact me regarding any project you're serious about. Please maintain a professional conduct.
+I am looking forward to working with you in a long-term relationship.
+Thank you for reading my page carefully.
+*********************************************
+Rushi P.
+Proposal Details
+$45.00/hr
+Proposed Bid
+Cover letter
+Dear Client,
+
+Greetings!
+
+I understand your requirements for creating minting functionality for NFT innovative project. I would like to mention that we have worked earlier on NFT Marketplaces and we have a very clear understanding of exactly how such platforms will be working. We at Pallaton are at forefront of Blockchain and NFT marketplace development. We offer NFT marketplaces in Solana, Ethereum, Polkadot, Polygon, Binance to name a few.
+
+Our Inventory For NFT Development
+==============================
+The NFT market tremendously with its ability to create, sell and exchange various digital items, like games, arts, sculptures, lands, characters, videos, music which attracts a large number of collectors, traders, and creative projects.
+
+Our NFT Development Services include services for various domains
+- NFT Development Platform
+- NFT Art Tokenization
+- NFT Marketplace
+- NFT for Games
+- NFT for the Fashion industry
+- NFT Lending Platform
+- NFT Exchange
+- NFT for Sports
+- NFT for Fantasy Sports
+- NFT for the Real Estate
+- P2P Exchange for NFTs
+- NFT of Videos
+.. and many more
+
+My Experience with NFT--
+I worked on a variety of NFT marketplace development from scratch such as NFT minting, NFT swap, NFT with art, NFT integration with OpenSea, and Open Sea clone for the NFT marketplace.
+
+Recent - NFT minting websites for NFT collection
+----------------------------------------------------------
+
+https://www.secret-nft.com/
+https://www.unic.ly/
+https://fractional.art/collections
+https://www.partybid.app/parties
+https://metavpad.com/
+https://bigtime.gg/
+https://corsacnfttest.xyz/
+
+Solana
+---------
+https://www.potbr.com/
+https://badasskangaroos.com/
+
+Ethereum
+-----------
+https://braindomgamenft.com/
+https://etczunks.com/
+https://therubberduck.io/
+https://www.powned.co/
+http://secureex.bget.ru/gg-fe/#/market
+https://www.brainiacnfts.com/
+https://supernerds.club/
+https://www.sphynxnft.com/
+https://cosmicpaws.io/
+https://roguerabbitsrabble.com/
+https://lionclub.sportsicon.co/
+https://www.secretsocietyofwhales.com/
+https://bullieverisland.com/
+https://hewerclan.com/
+https://galaxyfightclub.com
+https://beta.boojabaunga.com/
+https://desertedzebras.com
+https://cryptoetsnft.io/
+https://samuraicats.io/
+
+We have a team of almost 40 members and out of that, around 15 members have dedicated Blockchain developers wherein around 5 are good with NFT as we have trained them In-house. So, you get all support under the same roof, if we are working together.
+
+Please OPEN THE MESSAGE BOARD so that we can connect for a call to discuss the work scope
+
+Regard’s
+RP
+
+Overview
+Full Stack Blockchain Developer
+Specializes in Full Stack Development
+$23.00/hr
+I am a Blockchain engineer having experience with ETH, Polkadot, Solana, and Cardano. I’ve been in Blockchain for the last 5+ years and have delivered successful projects to date. And the other factors that determine my success is Strict NDA and On-time delivery. I am also proficient in Angular, React, NODE.js, javascript, CSS with apt knowledge of databases.
+
+I am flexible in timings and we can start immediately.
+
+My Skills includes:
+- Custom Blockchain Platform development
+- Smart Contract Development
+- Token Development
+- dApps
+- Blockchain NFT Games
+- Blockchain Marketing
+- Blockchain Audit
+- SmartContract Audit
+- Initial Coin Offering (ICO)
+- Hyperledger Development
+- Cryptocurrency Application Development.
+- Crypto Wallet Development
+- Blockchain IoT
+
+I can help you with:
+- Start with documenting requirements and specifications
+- Help with all Blockchain related development
+- Developing smart contracts
+- Developing interactive front-end designs for Blockchain applications
+- Developing back-end system for Blockchain applications
+- Experienced in git version control system
+
+Technology skills:
+Programming Languages: Javascript, TypeScript, Solidity, PHP
+Backend Frameworks / Tools: Node.Js, Deno, Laravel, Express.js, Nest.js, Ts. Ed
+Frontend Frameworks / Tools: Vue.js, Vuetify, Material Design, Bootstrap, Jquery
+Databases : MySQL, MongoDB, PostgreSQL
+Blockchain Tools: Ethereum, Solidity, BSC Binance Smart Chain, Web3, Metamask, Uniswap SDK, DEX, DeFi, Bitcoin, UTXO, Stellar, ERC20, BEP20, DeFi, NFT, Tron, TRC10, TRC20, EOS, Monero, and a lot of cryptocurrencies
+Versioning: Git (Github, Gitlab, Bitbucket)
+Other tools: Docker, Electron, Unix/Linux Ecosystem, AWS, Alibaba Cloud, Slack, Trello, Swagger Open API.
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501428895115124737?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646823819224%22,%22channelName%22%3A%2255ac569e-abff-4bcc-abeb-cf96108b8fa2%22%7D%5D
+***********************************
+Krishna Kumar S. 
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Hi there,
+I am a full-stack blockchain developer and I have developed token contracts, developed staking and vesting contracts, ICO contracts, and handled all React + web3 parts in my current full-time job. I have also created and worked on a very unique NFT project where people will get rewards for holding it. I have 8+ months of experience in blockchain development and 1-year experience as a software engineer in a SasS company.
+
+I am really interested in knowing more about your project and working on it.
+Let's get on a meet or zoom call to discuss more.
+LinkedIn -> https://www.linkedin.com/in/krishnakumarskr/
+
+Overview
+Blockchain | Web3 developer
+$40.00/hr
+Hey there, I am a full stack blockchain developer with experience in React, solidity, and Web3. I transationed from a front-end to blockchain developer, with one 1year of experience in front-end and 8+ months experience in blockchain and web3.
+
+In my current company as a blockchain developer have worked on token contracts, vesting, staking contracts, and completely handled React + web3 part.
+I am curious and passionate about working on web3 projects and solving more problems. Let's have a chat if you are here to build something new :)
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501431064879611905?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646823957552%22,%22channelName%22%3A%22266233f4-762d-4ee1-a4ca-5dc7f4cf1c8c%22%7D%5D
+*******************************************
+AmirAli B
+Proposal Details
+$45.00/hr
+Proposed Bid
+Cover letter
+👇 Please review to see why this is the ONLY proposal you need! 👇
+
+Hello, my name is AmirAli Bhimani,
+I have expert-level experience in Blockchain Development and would like to discuss this project with you.
+I have read your job post and I see you are looking for a blockchain developer. I have great experience and expertise with this kind of project.
+
+📌 Reasons you should hire me:
+✔️ Responsible.
+✔️ Can strongly commit to deadlines.
+✔️ Professional and creative.
+
+
+📍 Sample Blockchain Sites I worked on (Back-end):
+✅ https://themodz.io/
+✅ https://rockmanroads.com/
+✅ https://www.creepz.co/
+
+
+📍 My Skills and Expertise to name a few:
+✅ Solidity
+✅ Smart Contracts
+✅ Blockchain Development
+✅ Minting Bots
+✅ 2D/3D/Animated NFTs
+
+Let's discuss further your project, please click on Send Message below to start a chatroom with me.
+Looking forward to hearing from you.
+
+Thank you for choosing me,
+AmirAli Bhimani
+YittBox.com
+
+You can review additional information here:
+https://www.yittbox.com/website-development
+
+Overview
+Blockchain I NFT marketplace I NFT Minting INFT ArtistISmart contracts
+Specializes in Emerging Tech
+$40.00/hr
+An NFT/Crypto geek who specializes in Digital Marketing for NFT/Crypto Are you new to NFT/Crypto Space and want your NFT Project to be the next BIG HIT? then don't worry we will do the growth and promotion of your NFT Project Services we provided right now related to
+
+NFT/Crypto
+- NFT Design up to 10000 NFT's
+- Minting Websites
+- Landing Pages
+- Smart Contracts
+- Chat Engagement & Hype Services
+- Twitter Marketing
+
+If you have any questions feel free to contact me for a Consultancy Chat
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501496874004299777?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646824095643%22,%22channelName%22%3A%2250a4b058-4de2-40c1-8c35-96ffb8b66ccd%22%7D%5D
+
+**************************************************
+Shankey G. 
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Hi there.
+
+Greetings, I read your job description and would like to have an opportunity to work with you.
+
+Brief intro: I am an experienced web3.0 / **NFT Smart Contract Developer** along with experience in Solidity, ERC20, ERC721, Rust Javascript, ReactJs, CorejS, API integration, smart contract, truffle.
+
+I have worked on 10+ similar applications so far and I am **Top Rated Plus @Upwork** with 1700+ hours of work experience.
+
+My Roles & Responsibilities
+NFT Smart Contract Development
+MetaMask or Wallet connection
+Understanding of Blockchain architecture.
+Cryptography. …
+Data structures. …
+Smart contracts development …
+Web development. …
+
+My Recent work examples are the following:
+https://nft.mintyswap.com/
+https://afronifty.com/
+https://nft.amepay.io/
+https://dgpstar.com/
+https://oshen.io/
+
+Can we set up a time to discuss your goals for this project?
+
+Best Regards
+Shankey Gulati
+
+Overview
+Smart Contract and Blockchain Developer
+Specializes in Emerging Tech
+$40.00/hr
+We are premium Blockchain and Cryptocurrency development team of tech-savvy professional and passionate engineers which will lead your project execution from scratch to end.
+
+- Collaborating with managers to determine blockchain technology needs and envisaged functionalities.
+- Creating application features and interfaces by using programming languages and writing multithreaded codes.
+- Applying the latest cryptology techniques to protect digital transaction data against cyberattacks and information hacks.
+- Maintaining client and server-side applications.
+- Optimizing and securing blockchain applications by integrating new tools and technologies.
+- Educating sales personnel on blockchain features that allow secure digital payments.
+- Documenting blockchain development processes and complying with best practices in data protection.
+- Keeping up with current blockchain technologies and cryptography methods.
+- Extensive experience in back-end development, algorithms, and data structures.
+- Knowledge of cryptography and blockchain protocols.
+- In-depth knowledge of best practices in blockchain management and data protection.
+- Advanced analytical and problem-solving skills.
+- Superb organizational skills and keen attention to detail.
+- Excellent communication and collaboration abilities.
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501431641154158593?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646824279775%22,%22channelName%22%3A%225bc30114-1e72-49e9-b3db-b109cd801813%22%7D%5D
+
+***************************************************
+Karapet P. 
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Greetings!
+Thank you for this job opportunity.
+
+We are a team of professional developers and designers with already more than 11 years of industry experience and ready to help you greatly with any work needed for this project.
+
+As an NFT example from our portfolio I would also like to demonstrate ZestBloom which is a next generation Digital Media marketplace seeking to offer a brand new way of experiencing Crypto Art while simultaneously supporting and promoting artists for their contributions. It is built on Algorand (https://www.algorand.com/nft), one of the fastest and most efficient blockchains to date allowing to facilitate purchases and track ownership of assets, with significantly reduced fees and smaller carbon footprint. Please check the link to the website below:
+https://zestbloom.com/
+
+Another project I would like to demonstrate is Insight Prediction which is a betting platform for different events (markets). Users get wallets for different crypto coins (USDC, BTC, ETH) to deposit money into the system, place bids for different events and convert between different crypto coins to withdraw the money from their account.
+1. Perform complex calculations for share creation, as well as the resolved markets.
+2. Show statistics on the profits, ROI, and the harmonic average based on the ranking.
+3. While migrating markets from other platforms, convert into the respective format to be able to import into our platform.
+4. Ensure a total synchronization of the platforms so that the market is updated immediately in our platform whenever it gets updated in the original platform. We have used WebSocket to ensure this synchronization. Please check the link below:
+https://insightprediction.com/
+
+So, let me suggest you to schedule a date and meet online to discuss our candidacy and some more project details as well, what do you think?
+
+Looking forward to working with you in the nearest future.
+
+Best regards,
+
+Karapet
+https://www.st-dev.com/
+
+Overview
+
+Senior Full Stack (Python/Ruby/PHP/React/Node/Postgres) Engineer
+Specializes in Full Stack Development
+$60.00/hr
+19000+ hours on Upwork, 4.97 overall rating, 50+ happy clients.
+
+Enterprise-grade Full Stack web and mobile applications.
+
+I am a Full Stack application development consultant with over 70 successful (complex) project engagements involving front end and back end design and development. Project code bases ranging from (52000 lines of code to 1m+ lines of code). Involving from 1 man months to 36 man months of work with multiple returning clients.
+
+Considerable experience working with both US (over 60%) and European clients. We provide end to end solutions starting from requirements confirmation and understanding, design, documentation, agile development and coordination with product owners, to quality assurance and deployment.
+
+We are especially experienced with Insurance, Compensation, Booking, Marketplaces, Messaging, FinTech industries.
+
+Check my portfolio, feedback, reviews and feel free to ask for more references. Contact me today to discuss your project!
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501483047799234561?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646826900208%22,%22channelName%22%3A%22f42aa264-6b6e-45ef-bb56-8c26fcce99e8%22%7D%5D
+
+************************************************
+Kateryna K.
+Proposal Details
+$45.00/hr
+Proposed Bid
+Cover letter
+GM Team! I've attached the PDF file with a complete description of several NFT projects, their functionality, how long it takes to make and how much it costs.
+
+I have 7 launched NFT projects under the belt, and I would love to contribute to your project. Moreover, the recent project I worked on has to revealed functionality, so it's highly relevant for me.
+
+Here is my recent smart contract with Minting Functionality you're welcome to check https://etherscan.io/address/0x9B48eBAc17dB7D0b784Fc829207b463cF1ecF1bb and the website which I made as well https://quipenguins.com/
+
+Will be waiting to hear from you!
+
+Overview
+Proposal Details
+$45.00/hr
+Proposed Bid
+Cover letter
+GM Team! I've attached the PDF file with a complete description of several NFT projects, their functionality, how long it takes to make and how much it costs.
+
+I have 7 launched NFT projects under the belt, and I would love to contribute to your project. Moreover, the recent project I worked on has to revealed functionality, so it's highly relevant for me.
+
+Here is my recent smart contract with Minting Functionality you're welcome to check https://etherscan.io/address/0x9B48eBAc17dB7D0b784Fc829207b463cF1ecF1bb and the website which I made as well https://quipenguins.com/
+
+Will be waiting to hear from you!
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501503703435644929?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646827048016%22,%22channelName%22%3A%22dbf295e8-a2a7-4b76-a382-1662eb4d9421%22%7D%5D
+**************************************************************
+Vitalii D. 
+Proposal Details
+$50.00/hr
+Proposed Bid
+Cover letter
+Hi there!
+
+My name is Vitaliy, and I am a CTO and Founder of Upplabs - a software development company. I saw in your requirements that you are looking for experienced blockchain developer.
+
+We will be glad to allocate one of our devs and to help with project development. We have a strong engineering team, with 8+ years of experience in Node.js, Blockchain, Ethereum Network and DApps.
+
+Adding our portfolio for your reference - https://upplabs.com/portfolio/
+And here is our Clutch profile - https://clutch.co/profile/upplabs
+
+I would be glad to discuss in more details your project and help you out. Do you have free time to chat this week?
+
+Overview
+Architect & Senior Engineer (React, Vue, Node, ReactNative, .NET)
+$50.00/hr
+WHAT I CAN HELP WITH:
+
+✅ set up or extend your development team;
+✅ build your web or mobile product from scratch or rebuild a legacy one;
+✅ improve your web or mobile with new features;
+✅ implement a digital product that will increase the efficiency of your employees and optimize business processes;
+✅ come up with the right technical solution for your project.
+
+And many more, just contact me for more information!
+
+WHO I AM:
+
+For over 10+ years, I am specializing in web, mobile development and have solid experience in product management. I have graduated from Product School at Google, successfully launched a lot of web and mobile projects. It allows me to help you to build your project from the idea to a world product with minimum spends (time and cost).
+In addition, I am:
+✅ Included in Top 50 US Tech Visionaries by InterCon;
+✅ Mentor at Facebook Developer Circle;
+✅ Included in ‘40 under 40’ innovators' list by MobileAppDaily;
+✅ Member of Global CTO Forum Mentor in Maya Startup Hub;
+✅ Fintech and PropTech-enthusiast, who managed to work in 3 of the five largest outsourcing companies in Ukraine.
+
+WHY ME:
+
+✅ Top Rated
+✅ 10+ years of experience
+✅ 5000+ hours on Upwork
+✅ 100% Job Success
+✅ Expertise in team management;
+✅ Requirement analysis and coming up with the right solutions;
+
+TECH STACK:
+
+✅ Front-end development: ReactJs, VueJs, etc.;
+✅ Mobile development: ReactNative, Flutter, but also a native development with Kotlyn, Swift;
+✅ Back-end: .NET, NodeJs, Java, Python;
+✅ Rest API, GraphQL;
+✅ DBs: MS SQL, PostgreSQL, MongoDb, My SQL, Redis, MariaDb;
+✅ Cloud platforms: AWS, Google Cloud Platfom, Azure;
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501476494941626369?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646827132938%22,%22channelName%22%3A%220b61afe5-8a1d-42d7-9ec4-984e3b31425d%22%7D%5D
+
+Job
+https://www.upwork.com/ag/upplabs/
+
+**************************************************************
+
+Dave H
+Proposal Details
+$20.00/hr
+Proposed Bid
+Cover letter
+
+Hi there,
+Please see some blockchain projects designed and developed by me:
+
+https://ormuco.com/
+
+https://certif-id.com/
+
+I am a full-stack developer and designer who has 8 years of experience in full-stack development sphere. During that time I have designed and developed user-friendly websites and applications.
+Also here you can see some other websites I have worked on:
+
+https://www.adovany.cz/
+
+https://serino.studio/
+
+https://www.sneakinpeace.com/
+
+https://postfamiliar.com/
+
+My technical skills include:
+UI/UX Design, Adobe XD, Sketch, Figma, Photoshop, Illustrator, Indesign
+Pr. Languages - PHP, JavaScript, Python,
+HTML, CSS, C++ PHP Framework - Yii, CodeIgniter, Laravel JavaScript
+Front-End - Angular, Vue, React Back-End - Node, Express React Native
+Mobile APP CMS : Wordpress, Wix, Squarespace eCommerce ( shop ) - Magento, Shopify, WooCommerce
+Template/ Theme - Design Plugin - Systems
+Databases - MySQL, MariDB, Mongo DB
+
+Looking forward to hearing from you.
+Regards,
+Dave.
+
+Overview
+Full stack developer
+$20.00/hr
+Hi & Welcome!
+
+Why Me?
+I am a Full Stack Web Developer. I work with Quality, Aesthetics, and Professionalism, I focus on listening & understanding your needs and requirements and developing reliable and outstanding solutions. I don't stop till the time you are completely happy!
+Web Development is my passion and I will leave no stone unturned in producing a masterpiece for you.
+
+Services Offered:
+• Front-end (Bootstrap, HTML, CSS, JavaScript, JQuery, Ajax)
+• Back-end (C#)
+• Database (MYSQL)
+• Custom Website (PHP Laravel, Node, and Angular)
+• Dynamic
+• Highly Professional Design
+• 100% Unlimited revisions
+• Mobile-Friendly websites
+• E-commerce with various payment methods
+• Secure
+• Easy to use Admin Panel with manual
+• APIs Integration
+• And much more...
+
+Please contact me to discuss your requirements and to finalize the quotation accordingly.
+
+I have faith in my work speaking louder than my words so,
+Let's build something awesome for you!
+
+******************************************************
+
+Truong D.
+
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Hello, Sir.
+I am Blockchain expert, so have rich experience in this area.
+I've completed a lot of Defi and DEX, NFT projects on Ethereum Blockcahin for 3 years.
+Currently, I have rich experience about ERC20 and BEP20 smart contracts via a lot projects on Ethereum, BSC network.
+I can complete your requirements on time.
+I would like to discuss more details.
+Thanks.
+
+Overview
+
+Blockchain & Frontend Developer
+$70.00/hr
+Hi, My name is TruongDuChu and I am a blockchain developer. I have over 3+ Years of experience in blockchain development mostly on the ethereum blockchain, building cryptocurrencies, erc20 tokens, stable coins, rebase tokens, defi dapps, decentralized exchange, decentralized donation platform, and much more. I have strong knowledge of solidity, and I keep myself up to date with the latest trends in the defi space.
+
+If you have a novel idea that you wanna build from scratch or you wanna fork/clone any existing Defi project with modifications, I will be glad to work with you.
+
+If you have any queries feel free to ask, I am always up for questions.
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501435203033767937?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646827356046%22,%22channelName%22%3A%22ed0ffbee-c34c-48af-909e-220c0023847a%22%7D%5D
+
+************************************************************
+Jagdish H. 
+Proposal Details
+$35.00/hr
+Proposed Bid
+Cover letter
+Dear Client, Greetings!
+
+Based on the details, I understand that you have a requirement for an NFT expert. I am glad to mention that my team has recently developed our 30th NFT product including marketplace, smart contracts, generative NFTs, minting websites, NFT based gaming platforms and have a clear idea of the flow for the last 6 years.
+
+I would be more than happy to have a chat session with you in the message box!
+
+**Some questions for you**
+Q1. What would be the scope of work?
+Q2. Is it related to minting? If yes, then do you also need lazy minting?
+Q3. What would be the metadata?
+Q4. What all addons do you want to integrate?
+Q5. What would be the behavior of the smart contract?
+
+*On that note, I am sharing the deliverables along with my previously developed projects*
+
+1. *Smart contract ERC 721*
+ERC721 Contract for NFT - https://kovan.etherscan.io/address/0x1Bf9493A7B9efbb9D3b0578B0774C24A932f1608
+
+2. *NFT Launch Website*
+I have developed a variety of minting websites on the Ethereum chain, and a couple of websites on Opensea-
+
+https://thetapunks.com/
+https://blockchain-metamask.mobiloitte.org/wallet
+https://nft-marketplace.mobiloitte.org/
+
+https://tiar.io/
+https://opensea2.mobiloitte.org/
+https://marketplace-defi.mobiloitte.org/
+http://blockchain-market.mobiloitte.org/#/app/dashboard
+
+*Flow*
+-Web3 Wallet Integration
+-Dashboard creation
+-Minting Contract Development
+-Dynamic Minting of NFTs on
+-User Dashboard
+-Automating NFT minting process with metadata allocation
+-Uploading of NFT Metadata on S3/IPFS
+-NFT would be minted as per rarity and attributes defined in the game of Poker.
+-Admin Dashboard for looking into the sold NFT and other relevant statistics.
+-Poker graphics and Arts would be provided by the client.
+-UI/UX Development and integration
+-The development mechanism had been shared by the client.
+
+- Availability: 40+ hours/week
+- Communication: Upwork Workroom/Your preferred IM
+- Direct Access to developer
+- Daily Work updates and code submission
+
+Post kick off Team allocation => Project discovery => Sprints Finalizations => Test server setup => UI/UX development as required => Smart Contracts and other program coding (Sprint wise) => QA/UAT => Bug Fixations => Final delivery and source code handover
+
+LET US KNOW YOUR AVAILABILITY FOR A MEETING TODAY OR TOMORROW AROUND 9 AM YOUR TIME. I BELIEVE, WE CAN SET UP A MEETING TO HAVE FURTHER DISCUSSION AND MOVE AHEAD IMMEDIATELY.
+
+Thanks,
+Jagdish T
+
+Overview
+Future Ready Apps/dApps with Blockchain, IoT, AI, ML, NLP.
+$35.00/hr
+We are an organization that is helping Individuals & StartUps in the Initialization & Conceptualization of their software ideas to achieve success in today's competitive market. Also, assisting multiple Enterprise clients in their Digital Transformation & growth by implementing the latest software technologies.
+
+And thank you for your visit to Mobiloitte's profile page!
+
+☛WHO WE ARE:
+
+Mobiloitte is a Premier, Full Service Software Development Company for Blockchain, IoT, Artificial Intelligence, BOTS, Data Science, Power BI, Mobile, and Web Development with a special focus on Security, Scale, and Performance. Mobiloitte is apt at the early adoption of new technologies for its clients to always stay ahead of the curve in their digital transformation journey.
+
+☛ SERVICES & SOLUTIONS:
+
+Reliable Blockchain Services
+Internet of Things (IoT)
+Fast Mobile App Development
+Cross-Platform Apps
+E-Commerce Solutions
+Modern Web Development
+Artificial Intelligence Services
+Digital Services
+Efficient CMS Development
+
+App Security | Business Analytics | App UI/UX | Enterprise Content Management | Blockchain Development | Cryptocurrency | B2B Apps | B2C Apps | Repair - Upgrade - Maintain Apps | Office Automation | Home Automation | Industrial IoT | LifeStyle IoT | iBeacons | Digital Lifecycle | Augmented Reality | Wearable Device Apps | OCR Apps | RFID Apps | Emoji | Blockchain Apps | iWatch Apps | Enterprise Mobility | Consumer Mobile & Web Apps | iOS, Android, Titanium, Xamarin, React JS, Ionic, LAMP, ROR, JAVA, .NET, Angular JS, MEAN, Node JS, Firebase, CMS | App Performance | App Promotion |
+
+☛ INDUSTRIES & VERTICALS SERVED:
+
+In Blockchain:
+
+1- Blockchain & Allied Tech | Blockchain Solutions | ICO Launch | Crypto Exchange | Crypto Wallet | Coin Mining | Smart Contracts Audit | Initial Coin Offering | Ethereum | Bitco.in Wallet Development | Blockchain Technology Development | Blockchain POC
+
+Mobile + Web development
+
+On-demand Business Solutions | Transportation | Education & Learning | Entertainment & Music | Event Management | Finance | Social Networking | Real Estate | Advertising | Telecom | Government & PSU's | FMCG | Medical | News & Magazine | Shopping | Retail | Utilities & Tools | Travel & Hospitality |Health & Fitness | Lifestyle | mCommerce -eCommerce
+
+
+Mobiloitte designs and develops innovative, robust, and highly scalable digital solutions for web and mobile. Mobiloitte has delivered 3500+ mobile apps & websites in virtually every industry vertical and helped businesses to convert their concepts into products and grow their business.
+
+Mobiloitte works with Start-Up, Enterprise Government, Biotechnology, and large enterprises and delivered excellent solutions using technologies like IoT (Internet of Things), Blockchain, Ethereum Network, AI (Artificial Intelligence), and Big Data. Excellent quality assurance process ensures that you get your product or solution delivered at the right time when you need it, and with excellent quality.
+
+With a skilled workforce of 500+ people including programmers, project managers, product managers, quality testers, and solution architects, Mobiloitte brings extensive experience in the following technologies for your needs -
+
+■ Blockchain Cryptocurrency Application Development
+■ Ethereum platform
+■ Solidity
+■ Hyperledger
+■ Hyperledger sawtooth
+■ H. Burrow
+■ Stellar
+■ Hadera
+■ Parity
+■ NEO
+■ EOS
+■ Grid
+■ Javascript
+■ Kotlin
+■ Flutter
+■ Vue.js
+■ Native Scripts
+■ ionic4
+■ Mean
+■ Android App Development
+■ iOS App Development (iPhone X latest added in the skillset)
+■ Node.js
+■ Angular.js / Angular4
+■ Game programming (Unity & Unity3D)
+■ Cocoa programming
+■ PHP on Laravel
+■ Code Igniter
+■ Ruby on Rails
+■ Joomla
+■ Django
+■ Drupal
+■ React Native
+■ React.js
+■ Python
+■ Ionic Framework
+■ Asp.net MVC
+■ Xamarin
+■ Java / J2ME
+■ Magento
+■ WordPress
+
+☛ With our highly experienced UI/UX architects, we design an excellent user interface for a rich user experience using the following technologies -
+■ CSS 3.0
+■ Bootstrap
+■ HTML5
+■ jQuery
+
+
+☛ Exposure on Verticals and Micro-Verticals:
+
+■ Complete Retail PoS solutions with IoT using beacons
+■ B.itcoin App Development
+■ Education with SCORM compliance
+■ Transportation and Logistics with IoT - the next generation apps
+■ Travel and Hospitality
+■ Telecommunication - VAS platforms and digital content delivery
+■ Real Estate
+■ eBooks with the subscription model
+■ ERP for SME and large enterprises
+■ Fitness and healthcare apps using Wearables
+■ End to End eCommerce solutions (including mobile apps) with a special focus on deliveries using IoT.
+
+Got an idea or concept to convert into an app or website, connect with Mobiloitte right away and we will be happy to help!
+
+Thanks for reading this far, Mobiloitte is always a message away to help you with your needs!
+
+From the fun-loving and professional team here at Mobiloitte!
+
+portfolio
+https://www.upwork.com/ab/applicants/1501424959227826176/applicants/modal-proposal/1501432256116473857?pageTitle=Proposal&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Proposal%22,%22modalId%22%3A%221646827454033%22,%22channelName%22%3A%22af6cfecb-faf6-41c4-abb5-735481ee66ff%22%7D%5D
+
+job
+https://www.upwork.com/agencies/~0182747ae5c11f4347
+***********************************************************
+

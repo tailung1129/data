@@ -1,0 +1,24 @@
+Saito K.
+Proposal Details
+$40.00/hr
+Proposed Bid
+Cover letter
+Hi, nice to meet you here.
+
+As a smart contract/web3 engineer, I have 4 yrs of experience in developing defi /NFT marketplace websites. I have built and launched several smart contracts based on ERC20/721/1155 and BEP20 on EVM compatible networks with fully-testing on testnet before launch. Especially, I have rich experience in customizing and deploying the contracts for farming, staking pool for defi website. Recently, I have developed the smart contracts for game with ERC721 for inventory and ERC20 for reward token.
+I am familiar with web3 integration for nft minting websites. I have rich experience in smart contract and building NFT websites based on the design with pixel-perfect. Furthermore, I have been working as a front-end engineer for 5yrs.
+
+Skillset:
+- Front-end: React.js/Redux/Typescript/Vue
+- Backend: Node.js/PHP/Python
+- PWA (Progressive Web App)
+- Blockchain Engineering: Ethereum, Solidity, Rust, Web3.js, Ether.js
+- Blockchain tools: Truffle suits, Hardhat, Ganache, Geth, Swarm, Metamask
+- Version control: Git (github, gitlab, bitbucket)
+- Cloud hosting: AWS, Firebase, Heroku, Google Cloud
+
+I am familiar with agile methodology and flexible to work in different time windows. I look forward to hearing from you sth about the project detail.
+Have a great day. Thanks,
+
+
+Looking for a javascript/node developer to build GraphQL resolvers that are utilizing MongoDB as a datastore and Netlify’s AWS lambda functions in a serverless environment. Environment is already set up and running; we just need the resolvers to be built so that queries provide proper data.
